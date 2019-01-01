@@ -1,0 +1,19 @@
+/*Тело счётчика*/
+#timer {width:524px;height:130px;background-color: rgb(34, 98, 179);border-radius: 3px;}
+#timer p{font:24px/24px roboto_condensedregular,Arial,san-serif;text-transform:uppercase;color:#fff}
+/*Элементы счётчика, день/час/минута/секунда*/
+.countdown{color:#fff;display:block;margin:0 auto;width:484px;}
+.countdown li{background:url(time.png) no-repeat scroll center 0 transparent;display: inline-block;float:left;width:105px;clear:none;font-family:roboto_condensedlight,Arial,san-serif;font-size:14px;padding-top:14px;padding-bottom:23px;margin-right:8px;margin-bottom:0;}
+.countdown li span{display:block;font-family:roboto_condensedlight,Arial,san-serif;font-size:36px;margin-bottom:0;}
+/*Отступы для дня*/
+.days_ref,p {margin:0;padding-left: 34px;}
+.days,p {margin:0;padding-left: 32px;}
+/*Отступы для часа*/
+.hours,p {margin:0;padding-left: 32px;}
+.hours_ref,p {margin:0;padding-left: 28px;}
+/*Отступы для минуты*/
+.minutes,p {margin:0;padding-left: 32px;}
+.minutes_ref,p {margin:0;padding-left: 28px;}
+/*Отступы для секунды*/
+.seconds,p {margin:0;padding-left: 32px;}
+.seconds_ref,p {margin:0;padding-left: 28px;}

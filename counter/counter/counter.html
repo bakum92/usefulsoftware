@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+ <head>
+  <meta charset="utf-8">
+<!-- Заголовок страницы -->
+  <title>Таймер обратного отсчёта</title>
+	<!-- Стили -->
+	<link media="all" href="style.css" rel="stylesheet" />
+ </head>
+ 
+ <body>
+	<div class="section top">
+		<div id="header">
+			
+		</div><!-- #header -->
+		
+<!-- ТАЙМЕР (начало) Дата в TargetDate месяц/день/год время в 12-ти часовом формате: AM - до полудня, PM - после полудня -->
+		<div id="timer">
+			<p style="text-align:center;">До окончания обновлении осталось:</p>			
+			<ul class="countdown">
+				<li>
+					<span class="days">0</span>
+					<p class="days_ref">дн.</p>
+				</li>
+				<li>
+					<span class="hours">0</span>
+					<p class="hours_ref">час.</p>
+				</li>
+				<li>
+					<span class="minutes">0</span>
+					<p class="minutes_ref">мин.</p>
+				</li>
+				<li>
+					<span class="seconds">0</span>
+					<p class="seconds_ref">сек.</p>
+				</li>
+			</ul>
+		</div><!-- #timer -->
+<!-- ТАЙМЕР (окончание) -->
+
+
+<!-- Скрипты -->
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script type="text/javascript" src="jquery.downCount.js"></script>
+<!-- Настройка таймера. date: 'месяц/день/год часы:минуты:секунды'. 24-часовой формат. offset: +2 (часовой пояс, Киев +2). -->
+    <script class="source" type="text/javascript">
+        $('.countdown').downCount({
+            date: '01/06/2020 12:00:00',
+            offset: +2
+        }, function () {
+            $('#timer').css('display', 'none');
+        });
+    </script>
+
+ </body>
+</html>
