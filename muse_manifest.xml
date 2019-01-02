@@ -1,0 +1,73 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="roby.com" resolutions="1x" timestamp="1546436472758">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_______-a.css" crc="4194136597" ref="page-04:index:page:page-03:microsoft-office-lite:page-02"/>
+    <file name="page-04.css" crc="209423573" ref="page-04"/>
+    <file name="index.css" crc="4284603230" ref="index"/>
+    <file name="page.css" crc="4098942678" ref="page"/>
+    <file name="page-03.css" crc="393724844" ref="page-03"/>
+    <file name="microsoft-office-lite.css" crc="3784295472" ref="microsoft-office-lite"/>
+    <file name="page-02.css" crc="4249788851" ref="page-02"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:page-02:page-03:microsoft-office-lite:page-04:page"/>
+    <file name="museutils.js" crc="340535759" ref="index:page-02:page-03:microsoft-office-lite:page-04:page"/>
+    <file name="whatinput.js" crc="86476730" ref="index:page-02:page-03:microsoft-office-lite:page-04:page"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:page-02:page-03:microsoft-office-lite:page-04:page"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:page-02:page-03:microsoft-office-lite:page-04:page"/>
+    <file name="webpro.js" crc="4059564322" ref="index:page-02:page-03:microsoft-office-lite:page-04:page"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:page-02:page-03:microsoft-office-lite:page-04:page"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:page-02:page-03:microsoft-office-lite:page-04:page"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:page-02:page-03:microsoft-office-lite:page-04:page"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:page-02:page-03:microsoft-office-lite:page-04:page"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:page-02:page-03:microsoft-office-lite:page-04:page"/>
+    <file name="require.js" crc="7928878" ref="index:page-02:page-03:microsoft-office-lite:page-04:page"/>
+  </folder>
+  <folder name="images">
+    <file name="домашняя-favicon.ico" crc="3831096513" ref="index"/>
+    <file name="hydrangeas.jpg" crc="4292757360" seo="true" ref="index:page-02:page-03:microsoft-office-lite:page-04:page">
+      <caption webpage="index" alt=""/>
+      <caption webpage="page-03" alt=""/>
+      <caption webpage="microsoft-office-lite" alt=""/>
+      <caption webpage="page" alt=""/>
+      <caption webpage="page-02" alt=""/>
+      <caption webpage="page-04" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:page-02:page-03:microsoft-office-lite:page-04:page"/>
+    <file name="desert.jpg" crc="10620534" seo="true" ref="index:page-02:page-03:microsoft-office-lite:page-04:page">
+      <caption webpage="index" alt=""/>
+      <caption webpage="page-03" alt=""/>
+      <caption webpage="microsoft-office-lite" alt=""/>
+      <caption webpage="page" alt=""/>
+      <caption webpage="page-02" alt=""/>
+      <caption webpage="page-04" alt=""/>
+    </file>
+    <file name="penguins.jpg" crc="4253265357" seo="true" ref="index:page-02:page-03:microsoft-office-lite:page-04:page">
+      <caption webpage="index" alt=""/>
+      <caption webpage="page-03" alt=""/>
+      <caption webpage="microsoft-office-lite" alt=""/>
+      <caption webpage="page" alt=""/>
+      <caption webpage="page-02" alt=""/>
+      <caption webpage="page-04" alt=""/>
+    </file>
+    <file name="lighthouse.jpg" crc="457021337" seo="true" ref="index:page-02:page-03:microsoft-office-lite:page-04:page">
+      <caption webpage="index" alt=""/>
+      <caption webpage="page-03" alt=""/>
+      <caption webpage="microsoft-office-lite" alt=""/>
+      <caption webpage="page" alt=""/>
+      <caption webpage="page-02" alt=""/>
+      <caption webpage="page-04" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="активаор-favicon.ico" crc="415931277" ref="page-02"/>
+    <file name="сборник-активаор-favicon.ico" crc="415931277" ref="page-03"/>
+    <file name="microsoft-office-lite-favicon.ico" crc="415931277" ref="microsoft-office-lite"/>
+    <file name="обновление-до-wndows-10-favicon.ico" crc="415931277" ref="page-04"/>
+  </folder>
+  <file name="index.html" crc="505170373" seo="true" mt="1546436046352" redirect="true"/>
+  <file name="page-02.html" crc="3995939752" seo="true" mt="1546436140950" redirect="true"/>
+  <file name="page-03.html" crc="4199100910" seo="true" mt="1546436343056" redirect="true"/>
+  <file name="microsoft-office-lite.html" crc="356106599" seo="true" mt="1546435828908" redirect="true"/>
+  <file name="page-04.html" crc="239044831" seo="true" mt="1546436080827" redirect="true"/>
+  <file name="page.html" crc="31631094" seo="true" mt="1546435828914" redirect="true"/>
+</manifest>
